@@ -30,4 +30,22 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/hailetechlE"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hailetechlE" /></a></p><br><br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haileliul&show_icons=true&locale=en&layout=compact" alt="haileliul" /> /t <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haileliul&" alt="haileliul" />
+<div style='display:flex;gap: 5px;'>
+
+<div>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haileliul&show_icons=true&locale=en&layout=compact" alt="haileliul" /> 
+
+</div>
+
+<div>
+
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haileliul&" alt="haileliul" />
+
+</div>
+
+
+
+
+
