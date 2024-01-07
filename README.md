@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Haileliul](https://github.com/Haileliul)
 
-- 📝 I regularly write articles on [Tech](Tech)
+- 📝 I regularly write articles on [Tech](https://medium.com/@hailetechlover)
 
 - 💬 Ask me about **React , flutter , Html ,CSS ,Java, Javascript**
 
